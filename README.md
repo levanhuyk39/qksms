@@ -1,4 +1,4 @@
-##Preface
+## Preface
 We apply the source code of QKSMS, especially UI sections to our app, <a href="https://play.google.com/store/apps/details?id=vn.com.org.ldvietnam.ldvietnamandroid"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Download on Google Play" height="100"></a>. Conform to The GNU General Public License v3.0, we publish our code here. Special thanks to Moez Bhatti
 
 # QKSMS
