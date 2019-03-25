@@ -10,7 +10,7 @@ QKSMS is an open source replacement to the [stock messaging app](https://github.
 
 ## Thank you
 
-A special thank you to Jake ([@klinker41](https://github.com/klinker41)) and Luke Klinker ([@klinker24](https://github.com/klinker24)) for their work on [android-smsmms](https://github.com/klinker41/android-smsmms), which has been an unspeakably large help in implementing MMS into QKSMS.
+A special thank you to [Moez Bhatti](https://github.com/moezbhatti)
 
 
 ## Contact
